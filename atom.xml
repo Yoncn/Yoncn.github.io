@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>猴子的毛</title>
+  
+  <subtitle>我只是一个小开发仔。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-07-24T06:49:17.847Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>荣琛</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>分类</title>
+    <link href="http://yoursite.com/2018/07/24/iOS1/"/>
+    <id>http://yoursite.com/2018/07/24/iOS1/</id>
+    <published>2018-07-24T06:42:42.000Z</published>
+    <updated>2018-07-24T06:49:17.847Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;写了一个iOS分类的文章。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="iOS" scheme="http://yoursite.com/categories/iOS/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>first</title>
+    <link href="http://yoursite.com/2018/07/21/first/"/>
+    <id>http://yoursite.com/2018/07/21/first/</id>
+    <published>2018-07-21T10:37:48.000Z</published>
+    <updated>2018-07-21T10:37:48.336Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
